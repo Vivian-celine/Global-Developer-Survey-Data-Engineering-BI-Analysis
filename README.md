@@ -180,7 +180,7 @@ Global-Developer-Survey-Data-Engineering-BI-Analysis/
 ---
 
 ### 2️⃣ Summary Sheet  
-![Summary Sheet](Summary%20sheet.PNG)
+![Summary Sheet](Summary%20Sheet.PNG)
 
 ---
 
